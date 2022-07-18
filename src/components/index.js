@@ -1,4 +1,4 @@
 
 export * from './AddCategory';
 export * from './GifGrid';
-export * from './GifGridItm';
+export * from './GifGridItm'; 
