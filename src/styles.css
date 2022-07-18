@@ -49,9 +49,9 @@ img {
     align-items: center;
     background: paleturquoise;
     border-radius: 35px;
-    height: 290px;
+    height: 300px;
     margin: 10px;
-    width: 285px;
+    width: 300px;
 }
 
 @keyframes imgTransform {
@@ -99,7 +99,3 @@ img {
         width: 19rem;
     }
 }
-
-
-
-/* TODO: Adaptar el input para diferentes tamaños de pantalla */
